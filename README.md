@@ -19,10 +19,14 @@ More note play together, less like a theme.
 
 Nevertheless, the methods above is just "guessing", it is really difficult to find a method to select the theme track 100% correctly.
 
-建議如果要使用的話，可以先用其中一個方法篩選出可能的數個track，再用第二種方法篩選最有可能的那一個
+建議如果要使用的話，可以先用其中一個方法篩選出可能的數個track，再用第二種方法篩選最有可能的那一個，
 
 We suggest that if you want to find the theme track, 
 
 you should use one of the two methods above and select some track which is possibly a theme track,
 
-and than use the other to select the track that is most possibly a theme track.
+and than use the other to select the track that is most possibly a theme track,
+
+例如select_theme.py中的做法
+
+As you can see in select_theme.py.
